@@ -70,4 +70,9 @@ https://github.com/bcarun/cucumber-samples
 https://medium.com/@bcarunmail/set-up-and-run-cucumber-tests-in-spring-boot-application-d0c149d26220
 
 
+junit5 tag switch in cucumber
+
+https://www.baeldung.com/junit-cucumber-tags
+
+
 
