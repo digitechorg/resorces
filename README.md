@@ -63,4 +63,9 @@ https://thepracticaldeveloper.com/cucumber-guide-4-eventual-consistency-awaitili
 https://thepracticaldeveloper.com/tags/
 
 
+great resources for datatable
+
+https://github.com/bcarun/cucumber-samples
+
+
 
