@@ -52,4 +52,9 @@ https://thepracticaldeveloper.com/cucumber-guide-1-intro-bdd-gherkin/
 AMQB SPRING
 https://github.com/mechero
 
+Book to learn microservices:
+
+https://github.com/Apress/learn-microservices-spring-boot-2e
+
+
 
