@@ -40,3 +40,12 @@ https://github.com/christophd/yaks
 testcontainers
 https://www.testcontainers.org/
 
+
+Cucumber a lot:
+
+https://github.com/cucumber/cucumber-jvm/tree/main/spring
+
+https://thepracticaldeveloper.com/cucumber-tests-spring-boot-dependency-injection/
+
+https://thepracticaldeveloper.com/cucumber-guide-1-intro-bdd-gherkin/
+
