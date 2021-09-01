@@ -58,5 +58,7 @@ https://github.com/Apress/learn-microservices-spring-boot-2e
 
 https://github.com/orgs/Book-Microservices-v2/repositories
 
+https://thepracticaldeveloper.com/cucumber-guide-4-eventual-consistency-awaitility/#eventual-consistency-and-cucumber-tests
+
 
 
