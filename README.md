@@ -60,5 +60,7 @@ https://github.com/orgs/Book-Microservices-v2/repositories
 
 https://thepracticaldeveloper.com/cucumber-guide-4-eventual-consistency-awaitility/#eventual-consistency-and-cucumber-tests
 
+https://thepracticaldeveloper.com/tags/
+
 
 
