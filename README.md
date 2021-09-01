@@ -56,5 +56,7 @@ Book to learn microservices:
 
 https://github.com/Apress/learn-microservices-spring-boot-2e
 
+https://github.com/orgs/Book-Microservices-v2/repositories
+
 
 
