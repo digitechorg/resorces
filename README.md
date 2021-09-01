@@ -67,5 +67,7 @@ great resources for datatable
 
 https://github.com/bcarun/cucumber-samples
 
+https://medium.com/@bcarunmail/set-up-and-run-cucumber-tests-in-spring-boot-application-d0c149d26220
+
 
 
