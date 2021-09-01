@@ -33,3 +33,7 @@ https://cucumber.io/docs/tools/java/
 https://github.com/gauravkarvir/cucumber_testng_java
 
 https://github.com/czeczotka
+
+scenario references
+https://github.com/christophd/yaks
+
