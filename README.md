@@ -75,4 +75,7 @@ junit5 tag switch in cucumber
 https://www.baeldung.com/junit-cucumber-tags
 
 
+https://www.capitalone.com/tech/software-engineering/testcontainers-and-localstack-functional-testing/
+
+
 
