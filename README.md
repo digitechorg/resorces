@@ -77,5 +77,9 @@ https://www.baeldung.com/junit-cucumber-tags
 
 https://www.capitalone.com/tech/software-engineering/testcontainers-and-localstack-functional-testing/
 
+https://www.baeldung.com/cucumber-spring-integration
+
+http://ihendracode.blogspot.com/2019/06/cucumber-junit5-localstack.html
+
 
 
