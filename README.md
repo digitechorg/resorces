@@ -95,3 +95,34 @@ https://github.com/springframeworkguru
 
 Spring Cucumber openshift
 https://github.com/gavinklfong?tab=repositories
+
+
+Spring Ka Guru
+https://github.com/springframeworkguru
+
+https://www.youtube.com/watch?v=U9Nwjx-Glew
+https://github.com/RHsyseng/spring-boot-msa-ocp
+https://access.redhat.com/documentation/en-us/reference_architectures/2017/html/spring_boot_microservices_on_red_hat_openshift_container_platform_3/index
+
+
+Ansible
+
+https://www.youtube.com/watch?v=TB7zBMkzSnA
+
+Jenkins & Ansible
+
+https://github.com/RHsyseng/jenkins-on-openshift
+
+Scripts
+
+https://github.com/RHsyseng/openshift-checks
+
+Qpid ActiveMQ
+
+https://github.com/RHsyseng/amq7/blob/master/Test-Suite/src/test/java/com/redhat/refarch/amq7/BrokerClient.java
+
+
+source to image
+https://github.com/RHsyseng/amq7
+
+
