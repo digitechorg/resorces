@@ -126,3 +126,9 @@ source to image
 https://github.com/RHsyseng/amq7
 
 
+Data base object mapper
+
+https://github.com/aerospike/java-object-mapper/
+
+
+
