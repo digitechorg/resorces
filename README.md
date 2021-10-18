@@ -153,3 +153,9 @@ https://github.com/aerospike/java-object-mapper/
 https://medium.com/javarevisited/spring-transactional-mistakes-everyone-did-31418e5a6d6b
 
 https://github.com/wirtsleg?tab=repositories
+
+
+Autowiring Mistakes
+
+https://medium.com/codex/what-i-was-doing-wrong-spring-autowiring-and-feature-flagging-12bb979a08f6
+
