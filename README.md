@@ -32,6 +32,15 @@ https://cucumber.io/docs/tools/java/
 
 https://github.com/gauravkarvir/cucumber_testng_java
 
+
+Builder Pattern
+
+https://github.com/raviyasas/sample-room
+
+https://medium.com/@raviyasas/practical-use-of-the-builder-design-pattern-in-spring-boot-7fbeef231b16
+
+
+
 S.O.L.I.D 
 
 https://github.com/alizeynalli90/component-principles
