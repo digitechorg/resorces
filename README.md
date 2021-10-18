@@ -32,6 +32,10 @@ https://cucumber.io/docs/tools/java/
 
 https://github.com/gauravkarvir/cucumber_testng_java
 
+Clean code
+
+https://medium.com/javarevisited/not-so-obvious-tips-to-write-better-dtos-in-java-c6116895b180
+
 
 Builder Pattern
 
