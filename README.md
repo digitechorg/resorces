@@ -148,4 +148,8 @@ Data base object mapper
 https://github.com/aerospike/java-object-mapper/
 
 
+@Transaction
 
+https://medium.com/javarevisited/spring-transactional-mistakes-everyone-did-31418e5a6d6b
+
+https://github.com/wirtsleg?tab=repositories
