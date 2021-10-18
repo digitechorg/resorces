@@ -32,6 +32,14 @@ https://cucumber.io/docs/tools/java/
 
 https://github.com/gauravkarvir/cucumber_testng_java
 
+S.O.L.I.D 
+
+https://github.com/alizeynalli90/component-principles
+
+https://azeynalli1990.medium.com/master-plan-for-becoming-a-software-architect-be7ba13f0999
+
+
+
 https://github.com/czeczotka
 
 scenario references
