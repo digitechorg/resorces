@@ -175,3 +175,8 @@ https://github.com/wenqiglantz/customer-service
 Play with JSON
 
 https://devqa.io/how-to-parse-json-in-java/
+
+
+Functional programming in Java
+
+https://terricksolo.medium.com/functional-programming-in-java-replace-traditional-if-else-blocks-with-maps-and-streams-8901bac92e5e
