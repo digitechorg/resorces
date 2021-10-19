@@ -166,3 +166,7 @@ https://medium.com/codex/what-i-was-doing-wrong-spring-autowiring-and-feature-fl
 
 Cucumber JUnit 5
 https://github.com/wenqiglantz/customer-service
+
+Play with JSON
+
+https://devqa.io/how-to-parse-json-in-java/
