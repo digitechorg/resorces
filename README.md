@@ -183,3 +183,8 @@ https://terricksolo.medium.com/functional-programming-in-java-replace-traditiona
 
 Java 7 to 16
 https://kommradhomer.medium.com/java-16-is-out-and-youre-stuck-with-java6-here-is-what-you-re-missing-out-f3b61f81d167
+
+
+Java RoadMap
+
+https://medium.com/javarevisited/the-java-programmer-roadmap-f9db163ef2c2
